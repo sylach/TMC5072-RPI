@@ -1,5 +1,5 @@
-#ifndef TMC5072_H
-#define TMC5072_H
+#ifndef TMC5072_REG_H
+#define TMC5072_REG_H
 
 // ===== TMC5072 register set =====
 #define TMC5072_REG_GCONF        0x00
@@ -148,3 +148,4 @@
 #define TMC5072_REG_RS_SG             0x2000
 
 #endif
+
